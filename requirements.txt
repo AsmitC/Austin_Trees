@@ -7,3 +7,9 @@ scipy
 statsmodels
 geopy
 shapely
+xgboost
+tqdm
+pactools
+torch
+torchvision
+pytorch-tcn
