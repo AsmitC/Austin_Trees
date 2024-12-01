@@ -13,3 +13,5 @@ pactools
 torch
 torchvision
 pytorch-tcn
+gpytorch
+pyro-ppl
